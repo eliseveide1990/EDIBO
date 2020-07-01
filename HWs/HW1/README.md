@@ -1,0 +1,1 @@
+uzdevuma apraksts : Analysis of Windows event logs using PANDAS DataFrame  

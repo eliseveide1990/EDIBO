@@ -1,0 +1,146 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  clear 
+    5  exit
+    6  clear 
+    7  VirtualBox --startvm XP
+    8  clear 
+    9  history 
+   10  clear
+   11  pwd
+   12  clear
+   13  ls
+   14  ls.
+   15  clear
+   16  ls .
+   17  ls /
+   18  ls /home/ 
+   19  ls 
+   20  ls . 
+   21  ls/home
+   22  ls / home / 
+   23  clear
+   24  pwd
+   25  ls
+   26  cd 
+   27  pwd
+   28  desktop
+   29  rdesktop
+   30  cd / desktop / 
+   31  clear
+   32  pwd
+   33  ls
+   34  cd Desktop 
+   35  ls 
+   36  history 
+   37  ls
+   38  pwd
+   39  ls
+   40  pwd
+   41  mkdir 
+   42  ls
+   43  mkdir 
+   44  help
+   45  pwd
+   46  mkdir abc 
+   47  mkdirs ABC
+   48  ls
+   49  sun ABC
+   50  pwd
+   51  mkdir abc
+   52  ABC
+   53  ls
+   54  aBc
+   55  ls
+   56  mkdir abs
+   57  mkdir AbC
+   58  mkdir ABC 
+   59  ls 
+   60  mkdir ABc
+   61  AbC
+   62  ls
+   63  date
+   64  ls 
+   65  ls - l
+   66  ls -l
+   67  ls -l ABc
+   68  ls -l ABC
+   69  ls -l /home/user/desktop/ABc
+   70  cd 
+   71  pwd
+   72  cd / etc
+   73  cd / etc 
+   74  etc pwd
+   75  pwd
+   76  etc$
+   77  cd / etc 
+   78  ls 
+   79  pwd
+   80  cd
+   81  cd / desktop
+   82  pwd
+   83  etc$ ls | head 
+   84  cd /music/
+   85  pwd
+   86  ls
+   87  cd /etc/
+   88  pwd
+   89  ls | head -n 3 | wc
+   90  ls | head -n 3 
+   91  ls | head -n 3 | wc -l
+   92  ls | head -n 3 | wc -c
+   93  ls | wc -c
+   94  cd 
+   95  ls
+   96  ls Desktop/
+   97  ls | wc -c 
+   98  ls Desktop/ | wc -m
+   99  ls Desktop/ | wc -n
+  100  wc --help 
+  101  java -version
+  102  python
+  103  pwd
+  104  ls
+  105  a=123
+  106  echo a 
+  107  hello
+  108  echo hello
+  109  echo $a
+  110  b=sveiki
+  111  echo b
+  112  echo $b
+  113  echo c="hello world" 
+  114  echo $c
+  115  echo $b $c 
+  116  c="hello world"
+  117  echo c$+b$
+  118  echo $c $b
+  119  date
+  120  echo date
+  121  d=date | echo $d
+  122  echo `date`
+  123  echo $a
+  124  z=44
+  125  echo $z
+  126  echo $a+$z
+  127  echo $a$z
+  128  echo $a+$z 
+  129  echo $
+  130  sum=$(())
+  131  sum=$(($a+$z))
+  132  echo $sum
+  133  pwd
+  134  ls
+  135* echo=$(a+z))
+  136  date
+  137  history
+  138  history > h.txt
+  139  ls -l h.txt
+  140  ls -l a.txt
+  141  ls -l
+  142  echo $0
+  143  cd 
+  144  cd Desktop
+  145  history
+  146  history > history.txt

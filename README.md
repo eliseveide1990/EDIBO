@@ -14,3 +14,15 @@ Pirmais ieraksts
 :smile: 
 :punch: 
 
+### Tasks
+
+[] pareiza atbilde
+[] nepareiza atbilde
+[x] vienalga 
+
+Lists 
+
+* Elise
+*Mamma 
+*Tētis 
+**mhm 
